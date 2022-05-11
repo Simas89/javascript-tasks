@@ -1,0 +1,15 @@
+{
+  "name": "javascript-tasks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Simas89/javascript-tasks.git",
+  "author": "Simas <simaszurauskas@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
